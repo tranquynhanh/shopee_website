@@ -164,9 +164,3 @@
     }
   }
 }
-
-@media (max-width: 320px) {
-  .footer__heading {
-    font-size: 1.15rem;
-  }
-}

@@ -1346,6 +1346,12 @@ span.disabled {
     background-color: var(--white-color);
 }
 
+.footer__wrap {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
 .footer__heading {
     font-size: 1.4rem;
     text-transform: uppercase;
